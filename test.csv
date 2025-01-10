@@ -1,0 +1,12 @@
+﻿Age,Marital Status,Job Role,Monthly Salary,Number of Companies Worked,Years in Current Company,Job Satisfaction,Business Travel,Overtime,Prediction
+20,single,Laboratory Technician,10000,1,1,low,Frequently,Yes,"It's time to look for new opportunities. According to past data, your job offer is likely to be revoked."
+30,Married,Sales Executive,20000,2,1,high,rarely,no,Your Job is secure. Good luck for future endeavours!
+35,divorced,Research Scientist,100000,5,2,medium,no travel,Yes,"It's time to look for new opportunities. According to past data, your job offer is likely to be revoked."
+35,divorced,Research Scientist,100000,5,2,Very High,no travel,Yes,Your Job is secure. Good luck for future endeavours!
+40,married,Manufacturing Director,75000,3,5,high,frequently,yes,Your Job is secure. Good luck for future endeavours!
+40,divorced,Healthcare Representative,7500,5,10,low,no travel,no,Your Job is secure. Good luck for future endeavours!
+45,single,sales representative,750,1,1,low,Frequently,yes,"It's time to look for new opportunities. According to past data, your job offer is likely to be revoked."
+50,divorced,manager,50000,10,10,low,Frequently,yes,"It's time to look for new opportunities. According to past data, your job offer is likely to be revoked."
+53,Married,Research Director,500000,10,12,Very High,rarely,no,Your Job is secure. Good luck for future endeavours!
+73,Married,Human Resources,48523,20,10,low,Frequently,yes,"It's time to look for new opportunities. According to past data, your job offer is likely to be revoked."
+75,Married,others,116,10,5,high,no travel,no,Your Job is secure. Good luck for future endeavours!
